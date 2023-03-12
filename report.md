@@ -13,6 +13,9 @@
 
 **ipcalc** предоставляет простой метод для вычисления IP-информации хоста.
 
+![/cat/issue](/src/screenshots/ipcalc1.png)
+
+
 <img src="/src/screenshots/ipcalc1.png" alt="ipcalc1" width="600"/>
 
 ### 1.1. Сети и маски
