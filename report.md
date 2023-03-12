@@ -13,30 +13,30 @@
 
 **ipcalc** предоставляет простой метод для вычисления IP-информации хоста.
 
-<img src="../src/screenshots/ipcalc1.png" alt="ipcalc1" width="600"/>
+<img src="/src/screenshots/ipcalc1.png" alt="ipcalc1" width="600"/>
 
 ### 1.1. Сети и маски
 
 ##### 1) Адрес сети 192.167.38.54/13
 
-<img src="../src/screenshots/address.png" alt="ipcalc1" width="700"/>
+<img src="/src/screenshots/address.png" alt="ipcalc1" width="700"/>
 
 ##### 2) Перевод маски 255.255.255.0 в префиксную и двоичную запись, /15 в обычную и двоичную, 11111111.11111111.11111111.11110000 в обычную и префиксную
 
-<img src="../src/screenshots/netmask.png" alt="ipcalc1" width="700"/>
+<img src="/src/screenshots/netmask.png" alt="ipcalc1" width="700"/>
 
 ##### 3) Минимальный и максимальный хост в сети 12.167.38.4 при масках; /8, 11111111.11111111.00000000.00000000, 255.255.254.0 и /4
 
-<img src="../src/screenshots/host.png" alt="ipcalc1" width="700"/>
+<img src="/src/screenshots/host.png" alt="ipcalc1" width="700"/>
 
 ### 1.2. localhost
 
 ##### Определяем, можно ли обратиться к приложению, работающему на localhost, со следующими IP: *194.34.23.100/16*, *127.0.0.2/24*, *127.1.0.1/8*, *128.0.0.1/8*
 
-<img src="../src/screenshots/194.png" alt="ipcalc1" width="600"/>
-<img src="../src/screenshots/127.0.png" alt="ipcalc1" width="600"/>
-<img src="../src/screenshots/127.1.png" alt="ipcalc1" width="600"/>
-<img src="../src/screenshots/128.png" alt="ipcalc1" width="600"/>
+<img src="/src/screenshots/194.png" alt="ipcalc1" width="600"/>
+<img src="/src/screenshots/127.0.png" alt="ipcalc1" width="600"/>
+<img src="/src/screenshots/127.1.png" alt="ipcalc1" width="600"/>
+<img src="/src/screenshots/128.png" alt="ipcalc1" width="600"/>
 
 Обратиться можно только к приложениям с IP-адресом 127.0.0.2/24 и 127.1.0.1/8.
 
@@ -46,16 +46,16 @@
 ##### 1) какие из перечисленных IP можно использовать в качестве публичного, а какие только в качестве частных: *10.0.0.45/8*, *134.43.0.2/16*, *192.168.4.2/16*, *172.20.250.4/12*, *172.0.2.1/12*, *192.172.0.1/12*, *172.68.0.2/12*, *172.16.255.255/12*, *10.10.10.10/8*, *192.169.168.1/16*
 ##### 2) какие из перечисленных IP адресов шлюза возможны у сети *10.10.0.0/18*: *10.0.0.1*, *10.10.0.2*, *10.10.10.10*, *10.10.100.1*, *10.10.1.255*
 
-<img src="../src/screenshots/10.0.png" alt="ipcalc1" width="600"/>
-<img src="../src/screenshots/134.43.png" alt="ipcalc1" width="600"/>
-<img src="../src/screenshots/192.168.png" alt="ipcalc1" width="600"/>
-<img src="../src/screenshots/172.20.png" alt="ipcalc1" width="600"/>
-<img src="../src/screenshots/172.0.png" alt="ipcalc1" width="600"/>
-<img src="../src/screenshots/192.172.png" alt="ipcalc1" width="600"/>
-<img src="../src/screenshots/172.68.png" alt="ipcalc1" width="600"/>
-<img src="../src/screenshots/172.16.png" alt="ipcalc1" width="600"/>
-<img src="../src/screenshots/10.10.png" alt="ipcalc1" width="600"/>
-<img src="../src/screenshots/192.169.png" alt="ipcalc1" width="600"/>
+<img src="/src/screenshots/10.0.png" alt="ipcalc1" width="600"/>
+<img src="/src/screenshots/134.43.png" alt="ipcalc1" width="600"/>
+<img src="/src/screenshots/192.168.png" alt="ipcalc1" width="600"/>
+<img src="/src/screenshots/172.20.png" alt="ipcalc1" width="600"/>
+<img src="/src/screenshots/172.0.png" alt="ipcalc1" width="600"/>
+<img src="/src/screenshots/192.172.png" alt="ipcalc1" width="600"/>
+<img src="/src/screenshots/172.68.png" alt="ipcalc1" width="600"/>
+<img src="/src/screenshots/172.16.png" alt="ipcalc1" width="600"/>
+<img src="/src/screenshots/10.10.png" alt="ipcalc1" width="600"/>
+<img src="/src/screenshots/192.169.png" alt="ipcalc1" width="600"/>
 
 В качестве частных IP можно использовать 10.0.0.45/8, 192.168.4.2/16, 172.20.250.4/12, 192.172.0.1/12, 172.16.255.255/12, 10.10.10.10/8.
 
