@@ -113,9 +113,9 @@
 #### 3.1. Скорость соединения
 ##### Перевести и записать в отчёт: 8 Mbps в MB/s, 100 MB/s в Kbps, 1 Gbps в Mbps
 
-8 Mbps to MB/s = 8 MB/s
+8 Mbps to MB/s = 1 MB/s
 
-100 MB/s to Kbps = 100000 Kbps
+100 MB/s to Kbps = 819 200 Kbps
 
 1 Gbps to Mbps = 1000 Mbps
 
